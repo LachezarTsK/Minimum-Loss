@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class IVStreamlinedSolution {
+public class Solution {
 
 	/**
 	 * Applying HashMap so that each year can be accessed through the price with
